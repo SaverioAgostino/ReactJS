@@ -2,7 +2,6 @@
   "name": "react-website-course",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://SaverioAgostino.github.io/ReactJS",
   "type": "module",
   "scripts": {
     "dev": "vite",
